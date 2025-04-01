@@ -1,4 +1,4 @@
-Disciplina,Sigla
-Metah,EXM1
-GameDesign,GD01
-Banco De Dados,SPAD02
+Disciplina,Sigla,Horas
+Metah,EXM1,64
+GameDesign,GD01,32
+Banco De Dados,SPAD02,80
